@@ -22,6 +22,23 @@ public class settingDropDown extends BaseTestSuite {
 	
 	
 	@Test
-  public void f() {
+  public void DND() throws Exception {
+		ce1.clickSettingDropDwon();
+		Thread.sleep(2000);
+		if(ce1.dndPresent()){
+			ce1.clickdndButton();
+			ce1.clickDNDhour();
+			Thread.sleep(4000);
+			ce1.clickdndButton();
+		}
+		
+		ce1.dndSubLabelPresent();
+
+		
   }
+	
+
+	
+	
 }
+

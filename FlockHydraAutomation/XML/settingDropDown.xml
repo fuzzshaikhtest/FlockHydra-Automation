@@ -1,0 +1,14 @@
+<suite name="settingDropDown" thread-count="2" parallel="tests">
+	<listeners>
+		<!-- <listener class-name="utilities.SeleniumListener"> -->
+		<listener class-name="utilities.SeleniumListener">
+		</listener>
+	</listeners>
+	<test name="Chorme Browser">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="flockClient.settingDropDown">
+			</class>
+		</classes>
+	</test>
+</suite>

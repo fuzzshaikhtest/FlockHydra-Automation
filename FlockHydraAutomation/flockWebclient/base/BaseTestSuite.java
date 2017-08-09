@@ -44,7 +44,7 @@ public class BaseTestSuite{
 	protected OnBoardingUtils onboard;
 	protected SignOutUtils signOut;
 	protected clientElement ce;
-	protected clientElement ce1;
+	protected clientElement1 ce1;
 	
 	
 	@BeforeTest
@@ -81,7 +81,7 @@ public class BaseTestSuite{
 		onboard = new OnBoardingUtils(driver, test);
 		signOut = new SignOutUtils(driver, test);
 		ce = new clientElement(driver, test);
-		ce1 = new clientElement(driver, test);
+		ce1 = new clientElement1(driver, test);
 		
 	}
 	 @BeforeClass

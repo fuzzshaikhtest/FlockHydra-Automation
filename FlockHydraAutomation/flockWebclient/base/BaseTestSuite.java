@@ -32,6 +32,7 @@ import utilities.GenericMethods;
 import utilities.OnBoardingUtils;
 import utilities.SignOutUtils;
 import utilities.clientElement;
+import utilities.clientElement1;
 
 public class BaseTestSuite{
 	
@@ -43,6 +44,7 @@ public class BaseTestSuite{
 	protected OnBoardingUtils onboard;
 	protected SignOutUtils signOut;
 	protected clientElement ce;
+	protected clientElement ce1;
 	
 	
 	@BeforeTest
@@ -79,6 +81,7 @@ public class BaseTestSuite{
 		onboard = new OnBoardingUtils(driver, test);
 		signOut = new SignOutUtils(driver, test);
 		ce = new clientElement(driver, test);
+		ce1 = new clientElement(driver, test);
 		
 	}
 	 @BeforeClass

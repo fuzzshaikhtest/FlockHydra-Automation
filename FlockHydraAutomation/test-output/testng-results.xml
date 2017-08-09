@@ -1,86 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[Starting the Suite (onStart Suite): searchPlus]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => beforeSuite]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeSuite]]>
-    </line>
-    <line>
-      <![CDATA[Starting <test> tag with name(onStart Test): Chorme Browser]]>
-    </line>
-    <line>
-      <![CDATA[The following methods from the <test> tag will be executed: ]]>
-    </line>
-    <line>
-      <![CDATA[searchPlusChannelOption]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => beforeTest]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeTest]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => beforeClass]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeClass]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => beforeMethod]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeMethod]]>
-    </line>
-    <line>
-      <![CDATA[Starting Test (onTestStart): searchPlusChannelOption]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => searchPlusChannelOption]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => searchPlusChannelOption]]>
-    </line>
-    <line>
-      <![CDATA[Successful Test (onTestSuccess): searchPlusChannelOption]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => afterClass]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterClass]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => afterTest]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterTest]]>
-    </line>
-    <line>
-      <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => afterSuite]]>
-    </line>
-    <line>
-      <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterSuite]]>
-    </line>
   </reporter-output>
-  <suite name="searchPlus" duration-ms="142774" started-at="2017-08-03T08:23:08Z" finished-at="2017-08-03T08:25:31Z">
+  <suite name="Default suite" duration-ms="109680" started-at="2017-08-09T07:11:01Z" finished-at="2017-08-09T07:12:51Z">
     <groups>
     </groups>
-    <test name="Chorme Browser" duration-ms="142774" started-at="2017-08-03T08:23:08Z" finished-at="2017-08-03T08:25:31Z">
-      <class name="flockClient.searchPlus">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2017-08-03T13:53:08Z" finished-at="2017-08-03T13:53:08Z">
+    <test name="Default test" duration-ms="109680" started-at="2017-08-09T07:11:01Z" finished-at="2017-08-09T07:12:51Z">
+      <class name="flockClient.settingDropDown">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2017-08-09T12:41:01Z" finished-at="2017-08-09T12:41:01Z">
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeSuite]]>
-            </line>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="beforeTest" is-config="true" duration-ms="12839" started-at="2017-08-03T13:53:08Z" finished-at="2017-08-03T13:53:21Z">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:flockClient.settingDropDown@175b9425]" name="beforeTest" is-config="true" duration-ms="12648" started-at="2017-08-09T12:41:01Z" finished-at="2017-08-09T12:41:14Z">
           <params>
             <param index="0">
               <value>
@@ -89,63 +20,29 @@
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeTest]]>
-            </line>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="beforeClass" is-config="true" duration-ms="53444" started-at="2017-08-03T13:53:21Z" finished-at="2017-08-03T13:54:15Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="beforeClass" is-config="true" duration-ms="54122" started-at="2017-08-09T12:41:14Z" finished-at="2017-08-09T12:42:08Z">
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeClass]]>
-            </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-08-03T13:54:15Z" finished-at="2017-08-03T13:54:15Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="f" duration-ms="8" started-at="2017-08-09T12:42:08Z" finished-at="2017-08-09T12:42:08Z">
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => beforeMethod]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="searchPlusChannelOption()[pri:1, instance:flockClient.searchPlus@76ed1b7c]" name="searchPlusChannelOption" duration-ms="2852" started-at="2017-08-03T13:54:15Z" finished-at="2017-08-03T13:54:18Z">
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="afterClass" is-config="true" duration-ms="38551" started-at="2017-08-09T12:42:08Z" finished-at="2017-08-09T12:42:46Z">
           <reporter-output>
-            <line>
-              <![CDATA[Starting Test (onTestStart): searchPlusChannelOption]]>
-            </line>
-            <line>
-              <![CDATA[About to begin executing following method (beforeInvocation): flockClient.searchPlus => searchPlusChannelOption]]>
-            </line>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => searchPlusChannelOption]]>
-            </line>
-            <line>
-              <![CDATA[Successful Test (onTestSuccess): searchPlusChannelOption]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- searchPlusChannelOption -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="afterClass" is-config="true" duration-ms="68503" started-at="2017-08-03T13:54:18Z" finished-at="2017-08-03T13:55:26Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterClass]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="afterTest" is-config="true" duration-ms="5094" started-at="2017-08-03T13:55:26Z" finished-at="2017-08-03T13:55:31Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="afterTest" is-config="true" duration-ms="4323" started-at="2017-08-09T12:42:46Z" finished-at="2017-08-09T12:42:51Z">
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterTest]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:flockClient.searchPlus@76ed1b7c]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-08-03T13:55:31Z" finished-at="2017-08-03T13:55:31Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:flockClient.settingDropDown@175b9425]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-08-09T12:42:51Z" finished-at="2017-08-09T12:42:51Z">
           <reporter-output>
-            <line>
-              <![CDATA[Finished executing the following method (afterInvocation): flockClient.searchPlus => afterSuite]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- flockClient.searchPlus -->
-    </test> <!-- Chorme Browser -->
-  </suite> <!-- searchPlus -->
+      </class> <!-- flockClient.settingDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

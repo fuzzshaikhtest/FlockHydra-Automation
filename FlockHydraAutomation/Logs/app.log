@@ -1,45 +1,81 @@
-17:09:22.588 INFO  utilities.GenericMethods -The text: Create a new channel displayed is correct
-17:09:22.657 INFO  utilities.GenericMethods -The Create-Channel-sublabel element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']//div[@class='plus-item__sublabel'] is displayed
-17:09:22.688 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']//div[@class='plus-item__sublabel'] is For your projects or topics
-17:09:22.736 INFO  utilities.GenericMethods -The text: For your projects or topics displayed is correct
-17:09:22.937 INFO  utilities.clientElement -The Create Channel Option is not clicked
-17:09:23.183 INFO  utilities.clientElement -The Cancle option in StartNewChannel Modal is clicked
-17:09:26.209 INFO  utilities.clientElement -The universal SearchPlus Icon is present
-17:09:26.356 INFO  utilities.clientElement -Clicked on the Universal Search Button
-17:09:26.356 DEBUG utilities.GenericMethods -Type: id, Locator: dijit__WidgetsInTemplateMixin_3
-17:09:26.356 DEBUG utilities.GenericMethods -Searching element list using By.id(dijit__WidgetsInTemplateMixin_3)
-17:09:26.397 INFO  utilities.GenericMethods -Element found with id: dijit__WidgetsInTemplateMixin_3
-17:09:26.444 INFO  utilities.GenericMethods -The Create-Channel-icon element at loction: By.xpath: //div[@class='plus-item__icon invite'] is displayed
-17:09:26.494 INFO  utilities.GenericMethods -The Create-Channel-label element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_3']//div[@class='plus-item__label'] is displayed
-17:09:26.526 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_3']//div[@class='plus-item__label'] is Invite contacts
-17:09:26.595 INFO  utilities.GenericMethods -The text: Invite contacts displayed is correct
-17:09:26.626 INFO  utilities.GenericMethods -The Create-Channel-sublabel element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_3']//div[@class='plus-item__sublabel'] is displayed
-17:09:26.664 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_3']//div[@class='plus-item__sublabel'] is Add members to your team
-17:09:26.695 INFO  utilities.GenericMethods -The text: Add members to your team displayed is correct
-17:09:26.851 INFO  utilities.clientElement -The Invite Contact Button is clicked
-17:09:27.055 INFO  utilities.clientElement -The Cancle option in Invite Contact Modal is clicked
-17:09:30.069 INFO  utilities.clientElement -The universal SearchPlus Icon is present
-17:09:30.155 INFO  utilities.clientElement -Clicked on the Universal Search Button
-17:09:30.156 DEBUG utilities.GenericMethods -Type: id, Locator: dijit__WidgetsInTemplateMixin_1
-17:09:30.156 DEBUG utilities.GenericMethods -Searching element list using By.id(dijit__WidgetsInTemplateMixin_1)
-17:09:30.195 INFO  utilities.GenericMethods -Element found with id: dijit__WidgetsInTemplateMixin_1
-17:09:30.222 INFO  utilities.GenericMethods -The Create-Channel-icon element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_1']//div[@class='plus-item__icon join_channel'] is displayed
-17:09:30.256 INFO  utilities.GenericMethods -The Create-Channel-label element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_1']//div[@class='plus-item__label'] is displayed
-17:09:30.281 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_1']//div[@class='plus-item__label'] is Join Public Channels (1)
-17:09:30.327 ERROR utilities.GenericMethods -The text: Join Public Channels (1) displayed is not correct
-17:09:30.355 INFO  utilities.GenericMethods -The Create-Channel-sublabel element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_1']//div[@class='plus-item__sublabel'] is displayed
-17:09:30.386 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_1']//div[@class='plus-item__sublabel'] is Discover shared interests
-17:09:30.417 INFO  utilities.GenericMethods -The text: Discover shared interests displayed is correct
-17:09:30.578 INFO  utilities.clientElement -The Join Channel Button is clicked
-17:09:30.780 INFO  utilities.clientElement -The Cancle option in Join Channel Modal is clicked
-17:09:30.783 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
-17:09:30.783 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
-17:09:30.832 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
-17:09:30.832 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
-17:09:30.832 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-17:09:31.149 INFO  utilities.GenericMethods -Element clicked on the webpage
-17:09:31.149 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-17:09:31.473 INFO  utilities.GenericMethods -Element clicked on the webpage
-17:09:31.473 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-17:09:31.679 INFO  utilities.GenericMethods -Element clicked on the webpage
-17:09:31.680 INFO  utilities.SignOutUtils -The test user has been signed out
+18:43:56.946 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+18:43:56.960 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+18:44:07.024 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+18:44:07.024 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+18:44:07.053 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+18:44:07.053 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+18:44:07.095 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+18:44:07.400 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:44:07.751 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:44:07.751 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:44:09.468 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:44:09.468 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+18:44:09.683 INFO  utilities.GenericMethods -Value Entered in the place holder
+18:44:09.683 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:44:09.900 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:44:09.906 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+18:44:09.907 DEBUG utilities.OnBoardingUtils -Inside handle language alert
+18:44:09.907 DEBUG utilities.GenericMethods -Waiting for a max: 30 seconds for the element to become clickable
+18:44:43.925 INFO  utilities.GenericMethods -Not able to waitAndClick on the element
+18:45:03.926 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:45:04.132 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:45:04.132 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+18:45:09.204 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+18:45:09.248 INFO  utilities.GenericMethods -The Feature Tour Card element at loction: By.xpath: //div[contains(@class,'fcStartNewConversation')] is displayed
+18:45:09.248 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+18:45:09.248 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:45:09.454 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:45:09.484 INFO  utilities.clientElement -The Invite hook in the App Menu is present
+18:45:09.671 INFO  utilities.clientElement -The Invite Option in the App Menu is clicked
+18:45:09.674 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+18:45:09.674 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+18:45:09.727 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+18:45:09.728 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+18:45:09.728 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:45:09.957 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:45:09.957 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:45:39.995 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:45:39.996 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:46:10.032 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:46:10.032 INFO  utilities.SignOutUtils -The test user has been signed out
+19:22:30.232 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+19:22:30.243 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+19:22:40.308 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+19:22:40.308 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+19:22:40.339 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+19:22:40.339 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+19:22:40.377 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+19:22:40.693 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:22:40.964 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:22:40.964 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:22:42.562 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:22:42.563 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+19:22:42.860 INFO  utilities.GenericMethods -Value Entered in the place holder
+19:22:42.860 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:22:43.159 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:22:43.169 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+19:22:43.170 DEBUG utilities.OnBoardingUtils -Inside handle language alert
+19:22:43.170 DEBUG utilities.GenericMethods -Waiting for a max: 30 seconds for the element to become clickable
+19:23:18.303 INFO  utilities.GenericMethods -Not able to waitAndClick on the element
+19:23:38.305 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:23:38.474 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:23:38.474 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:23:43.605 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:23:43.654 INFO  utilities.GenericMethods -The Feature Tour Card element at loction: By.xpath: //div[contains(@class,'fcStartNewConversation')] is displayed
+19:23:43.654 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:23:43.655 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:23:43.841 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:23:43.863 INFO  utilities.clientElement -The Invite hook in the App Menu is present
+19:23:44.018 INFO  utilities.clientElement -The Invite Option in the App Menu is clicked
+19:23:44.258 INFO  utilities.clientElement -The Cancle option in Invite Contact Modal is clicked
+19:23:44.261 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:23:44.261 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:23:44.310 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:23:44.310 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:23:44.310 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:23:44.663 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:23:44.663 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:23:44.885 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:23:44.886 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:23:45.058 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:23:45.059 INFO  utilities.SignOutUtils -The test user has been signed out

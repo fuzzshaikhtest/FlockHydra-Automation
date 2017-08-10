@@ -4,7 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.testng.Assert;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.LogStatus;
@@ -18,11 +17,6 @@ public class searchPlus extends BaseTestSuite{
 	*/
 	
 	private static final Logger log = LogManager.getLogger(searchPlus.class.getName());
-
-	@BeforeMethod
-	public void beforeMethod() throws Exception {
-		
-	}
 
 	@Test(priority=1)
 	public void searchPlusChannelOption() throws Exception {

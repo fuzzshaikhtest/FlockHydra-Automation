@@ -62,19 +62,19 @@
       <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => afterSuite]]>
     </line>
   </reporter-output>
-  <suite name="inviteContacts" duration-ms="99637" started-at="2017-08-10T13:52:18Z" finished-at="2017-08-10T13:53:57Z">
+  <suite name="inviteContacts" duration-ms="98436" started-at="2017-08-11T13:38:08Z" finished-at="2017-08-11T13:39:46Z">
     <groups>
     </groups>
-    <test name="Chorme Browser" duration-ms="99637" started-at="2017-08-10T13:52:18Z" finished-at="2017-08-10T13:53:57Z">
+    <test name="Chorme Browser" duration-ms="98436" started-at="2017-08-11T13:38:08Z" finished-at="2017-08-11T13:39:46Z">
       <class name="flockClient.inviteContacts">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2017-08-10T19:22:18Z" finished-at="2017-08-10T19:22:18Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2017-08-11T19:08:08Z" finished-at="2017-08-11T19:08:08Z">
           <reporter-output>
             <line>
               <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => beforeSuite]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeTest" is-config="true" duration-ms="12011" started-at="2017-08-10T19:22:18Z" finished-at="2017-08-10T19:22:30Z">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeTest" is-config="true" duration-ms="12003" started-at="2017-08-11T19:08:08Z" finished-at="2017-08-11T19:08:20Z">
           <params>
             <param index="0">
               <value>
@@ -88,14 +88,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeClass" is-config="true" duration-ms="73613" started-at="2017-08-10T19:22:30Z" finished-at="2017-08-10T19:23:43Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="beforeClass" is-config="true" duration-ms="71759" started-at="2017-08-11T19:08:20Z" finished-at="2017-08-11T19:09:32Z">
           <reporter-output>
             <line>
               <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => beforeClass]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="appMenuInvite()[pri:1, instance:flockClient.inviteContacts@6a03bcb1]" name="appMenuInvite" duration-ms="405" started-at="2017-08-10T19:23:43Z" finished-at="2017-08-10T19:23:44Z">
+        <test-method status="PASS" signature="appMenuInvite()[pri:1, instance:flockClient.inviteContacts@6a03bcb1]" name="appMenuInvite" duration-ms="1134" started-at="2017-08-11T19:09:32Z" finished-at="2017-08-11T19:09:33Z">
           <reporter-output>
             <line>
               <![CDATA[Starting Test (onTestStart): appMenuInvite]]>
@@ -111,21 +111,21 @@
             </line>
           </reporter-output>
         </test-method> <!-- appMenuInvite -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterClass" is-config="true" duration-ms="8799" started-at="2017-08-10T19:23:44Z" finished-at="2017-08-10T19:23:53Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterClass" is-config="true" duration-ms="8773" started-at="2017-08-11T19:09:33Z" finished-at="2017-08-11T19:09:41Z">
           <reporter-output>
             <line>
               <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => afterClass]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterTest" is-config="true" duration-ms="4786" started-at="2017-08-10T19:23:53Z" finished-at="2017-08-10T19:23:57Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterTest" is-config="true" duration-ms="4735" started-at="2017-08-11T19:09:41Z" finished-at="2017-08-11T19:09:46Z">
           <reporter-output>
             <line>
               <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => afterTest]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-08-10T19:23:57Z" finished-at="2017-08-10T19:23:57Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:flockClient.inviteContacts@6a03bcb1]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-08-11T19:09:46Z" finished-at="2017-08-11T19:09:46Z">
           <reporter-output>
             <line>
               <![CDATA[Finished executing the following method (afterInvocation): flockClient.inviteContacts => afterSuite]]>

@@ -15,6 +15,12 @@ public class DefaultStrings {
 	
 	public static final String DIRECTI_TESTER_002_Email = "directitester002@directi.com";
 	public static final String OTP = "654321";
+	
+	public static final String Tester_farzan ="flockdesktop1@flock.com";
+	public static final String Tester_idris ="flockdesktop2@flock.com";
+	public static final String Tester_ralston ="flockdesktop3@flock.com";
+	
+	public static final String flock_OTP ="243156"; 
 
 
 }

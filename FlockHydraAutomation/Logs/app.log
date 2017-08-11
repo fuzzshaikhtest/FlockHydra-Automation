@@ -1,81 +1,58 @@
-18:43:56.946 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
-18:43:56.960 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
-18:44:07.024 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
-18:44:07.024 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
-18:44:07.053 INFO  utilities.GenericMethods -Switched to iframe by int : 0
-18:44:07.053 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
-18:44:07.095 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
-18:44:07.400 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-18:44:07.751 INFO  utilities.GenericMethods -Element clicked on the webpage
-18:44:07.751 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-18:44:09.468 INFO  utilities.GenericMethods -Element clicked on the webpage
-18:44:09.468 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
-18:44:09.683 INFO  utilities.GenericMethods -Value Entered in the place holder
-18:44:09.683 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-18:44:09.900 INFO  utilities.GenericMethods -Element clicked on the webpage
-18:44:09.906 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
-18:44:09.907 DEBUG utilities.OnBoardingUtils -Inside handle language alert
-18:44:09.907 DEBUG utilities.GenericMethods -Waiting for a max: 30 seconds for the element to become clickable
-18:44:43.925 INFO  utilities.GenericMethods -Not able to waitAndClick on the element
-18:45:03.926 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-18:45:04.132 INFO  utilities.GenericMethods -Element clicked on the webpage
-18:45:04.132 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
-18:45:09.204 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
-18:45:09.248 INFO  utilities.GenericMethods -The Feature Tour Card element at loction: By.xpath: //div[contains(@class,'fcStartNewConversation')] is displayed
-18:45:09.248 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
-18:45:09.248 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-18:45:09.454 INFO  utilities.GenericMethods -Element clicked on the webpage
-18:45:09.484 INFO  utilities.clientElement -The Invite hook in the App Menu is present
-18:45:09.671 INFO  utilities.clientElement -The Invite Option in the App Menu is clicked
-18:45:09.674 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
-18:45:09.674 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
-18:45:09.727 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
-18:45:09.728 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
-18:45:09.728 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-18:45:09.957 ERROR utilities.GenericMethods -Element not clicked on the webpage
-18:45:09.957 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-18:45:39.995 ERROR utilities.GenericMethods -Element not clicked on the webpage
-18:45:39.996 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-18:46:10.032 ERROR utilities.GenericMethods -Element not clicked on the webpage
-18:46:10.032 INFO  utilities.SignOutUtils -The test user has been signed out
-19:22:30.232 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
-19:22:30.243 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
-19:22:40.308 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
-19:22:40.308 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
-19:22:40.339 INFO  utilities.GenericMethods -Switched to iframe by int : 0
-19:22:40.339 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
-19:22:40.377 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
-19:22:40.693 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-19:22:40.964 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:22:40.964 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-19:22:42.562 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:22:42.563 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
-19:22:42.860 INFO  utilities.GenericMethods -Value Entered in the place holder
-19:22:42.860 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-19:22:43.159 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:22:43.169 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
-19:22:43.170 DEBUG utilities.OnBoardingUtils -Inside handle language alert
-19:22:43.170 DEBUG utilities.GenericMethods -Waiting for a max: 30 seconds for the element to become clickable
-19:23:18.303 INFO  utilities.GenericMethods -Not able to waitAndClick on the element
-19:23:38.305 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-19:23:38.474 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:23:38.474 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
-19:23:43.605 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
-19:23:43.654 INFO  utilities.GenericMethods -The Feature Tour Card element at loction: By.xpath: //div[contains(@class,'fcStartNewConversation')] is displayed
-19:23:43.654 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
-19:23:43.655 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-19:23:43.841 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:23:43.863 INFO  utilities.clientElement -The Invite hook in the App Menu is present
-19:23:44.018 INFO  utilities.clientElement -The Invite Option in the App Menu is clicked
-19:23:44.258 INFO  utilities.clientElement -The Cancle option in Invite Contact Modal is clicked
-19:23:44.261 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
-19:23:44.261 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
-19:23:44.310 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
-19:23:44.310 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
-19:23:44.310 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
-19:23:44.663 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:23:44.663 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-19:23:44.885 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:23:44.886 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
-19:23:45.058 INFO  utilities.GenericMethods -Element clicked on the webpage
-19:23:45.059 INFO  utilities.SignOutUtils -The test user has been signed out
+19:08:20.267 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+19:08:20.283 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+19:08:30.322 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+19:08:30.322 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+19:08:30.355 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+19:08:30.356 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+19:08:30.393 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+19:08:30.619 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:08:30.860 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:08:30.861 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:08:32.100 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:08:32.101 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+19:08:32.337 INFO  utilities.GenericMethods -Value Entered in the place holder
+19:08:32.338 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:08:32.573 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:08:32.580 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+19:08:32.580 DEBUG utilities.OnBoardingUtils -Inside handle language alert
+19:08:32.580 DEBUG utilities.GenericMethods -Waiting for a max: 30 seconds for the element to become clickable
+19:09:06.462 INFO  utilities.GenericMethods -Not able to waitAndClick on the element
+19:09:26.465 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:09:26.670 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:09:26.671 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:09:31.759 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:09:31.812 INFO  utilities.GenericMethods -The Feature Tour Card element at loction: By.xpath: //div[contains(@class,'fcStartNewConversation')] is displayed
+19:09:31.813 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:09:31.813 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:09:32.020 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:09:32.047 INFO  utilities.clientElement -The Invite hook in the App Menu is present
+19:09:32.184 INFO  utilities.clientElement -The Invite Option in the App Menu is clicked
+19:09:32.297 INFO  utilities.clientElement -The Invite Contact Modal is displayed
+19:09:32.372 INFO  utilities.GenericMethods -The Invite Modal Header element at loction: By.xpath: //div[contains(@class,'invite-dialog') and contains(@role,'dialog')]//div[contains(text(),'Invite team members')] is displayed
+19:09:32.433 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //div[contains(@class,'invite-dialog') and contains(@role,'dialog')]//div[contains(text(),'Invite team members')] is Invite team members
+19:09:32.471 INFO  utilities.GenericMethods -The text: Invite team members displayed is correct
+19:09:32.547 INFO  utilities.GenericMethods -The Invite Modal SubHeader element at loction: By.xpath: //div[contains(@class,'invite-dialog') and contains(@role,'dialog')]//p[contains(@class,'invite-modal-text')] is displayed
+19:09:32.621 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //div[contains(@class,'invite-dialog') and contains(@role,'dialog')]//p[contains(@class,'invite-modal-text')] is Flock works best when your team is here too. Add members by entering their email ID.
+19:09:32.668 INFO  utilities.GenericMethods -The text: Flock works best when your team is here too. Add members by entering their email ID. displayed is correct
+19:09:32.668 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[contains(@class,'inputBoxWrapper') and contains(@class,'emailInput') and @tabindex='1']//input[@placeholder='Enter an email ID']
+19:09:32.669 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[contains(@class,'inputBoxWrapper') and contains(@class,'emailInput') and @tabindex='1']//input[@placeholder='Enter an email ID'])
+19:09:32.702 INFO  utilities.GenericMethods -Element found with xpath: //div[contains(@class,'inputBoxWrapper') and contains(@class,'emailInput') and @tabindex='1']//input[@placeholder='Enter an email ID']
+19:09:32.793 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //div[contains(@class,'inputBoxWrapper') and contains(@class,'emailInput') and @tabindex='1']//input[@placeholder='Enter an email ID'] is 
+19:09:32.828 INFO  utilities.GenericMethods -The text:  displayed is correct
+19:09:32.828 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[contains(@class,'invite-dialog')]//button[contains(text(),'Invite')]
+19:09:32.828 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[contains(@class,'invite-dialog')]//button[contains(text(),'Invite')])
+19:09:32.875 INFO  utilities.GenericMethods -Element found with xpath: //div[contains(@class,'invite-dialog')]//button[contains(text(),'Invite')]
+19:09:32.937 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //div[contains(@class,'invite-dialog')]//button[contains(text(),'Invite')] is Invite
+19:09:32.980 INFO  utilities.GenericMethods -The text: Invite displayed is correct
+19:09:33.170 INFO  utilities.clientElement -The Cancle option in Invite Contact Modal is clicked
+19:09:33.173 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:09:33.173 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:09:33.249 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:09:33.249 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:09:33.249 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:09:33.569 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:09:33.569 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:09:33.768 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:09:33.768 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:09:33.945 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:09:33.945 INFO  utilities.SignOutUtils -The test user has been signed out

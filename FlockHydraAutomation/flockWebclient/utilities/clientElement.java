@@ -249,6 +249,32 @@ public class clientElement {
 		}
 	}
 	
+	@FindBy(xpath="//div[contains(@class,'invite-dialog') and contains(@role,'dialog')]")
+	WebElement inviteContactModal;
 	
+	public boolean  inviteContactModalDisplayed(){
+		if(inviteContactModal.isDisplayed()){
+			log.info("The Invite Contact Modal is displayed");
+			test.log(LogStatus.INFO, "The Invite Contact Modal is displayed");
+			return true;
+		}else{
+			log.info("The Invite Contact Modal is not displayed");
+			test.log(LogStatus.FAIL, "The Invite Contact Modal is not displayed");
+			return false;
+		}
+	}
+	
+	public boolean inviteContactModalPresent(){
+		if(inviteContactModal != null){
+			log.info("The Invite Contact Modal is present");
+			test.log(LogStatus.INFO, "The Invite Contact Modal is present");
+			return true;
+		}else{
+			log.info("The Invite Contact Modal is not present");
+			test.log(LogStatus.FAIL, "The Invite Contact Modal is not present");
+			return false;
+		}
+		
+	}
 	
 }

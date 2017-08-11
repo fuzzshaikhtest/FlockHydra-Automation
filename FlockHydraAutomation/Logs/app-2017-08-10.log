@@ -1,0 +1,437 @@
+18:11:04.838 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:11:05.316 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:11:05.317 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:11:08.612 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:11:08.612 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:11:38.673 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:11:38.673 INFO  utilities.SignOutUtils -The test user has been signed out
+17:51:06.195 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+17:51:06.221 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+17:51:16.419 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+17:51:16.420 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+17:51:16.448 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+17:51:16.448 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+17:51:16.493 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+17:51:16.875 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+17:51:17.358 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:51:17.359 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+17:51:19.477 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:51:19.477 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+17:51:19.737 INFO  utilities.GenericMethods -Value Entered in the place holder
+17:51:19.738 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+17:51:19.976 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:51:19.981 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+17:51:19.981 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+17:51:19.982 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+17:51:54.374 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+17:51:54.375 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+17:51:54.375 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+17:51:54.554 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:51:54.554 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+17:51:54.611 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+17:51:54.611 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+17:51:54.612 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+17:51:54.622 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+17:51:54.623 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+17:51:54.623 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+17:51:59.762 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:51:59.917 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+17:52:02.010 INFO  utilities.clientElement1 -Clicked on the DND Button
+17:52:12.505 INFO  utilities.clientElement1 -Clicked on the DND Button
+17:52:12.718 INFO  utilities.clientElement1 -Clicked on the Notification Preferences
+17:52:13.221 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+17:52:15.306 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+17:52:17.353 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+17:52:18.394 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+17:52:18.396 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+17:52:18.396 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+17:52:18.423 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+17:52:18.424 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+17:52:18.424 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+17:52:18.658 INFO  utilities.GenericMethods -Element clicked on the webpage
+17:52:18.659 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+17:52:21.867 ERROR utilities.GenericMethods -Element not clicked on the webpage
+17:52:21.867 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+17:52:51.938 ERROR utilities.GenericMethods -Element not clicked on the webpage
+17:52:51.938 INFO  utilities.SignOutUtils -The test user has been signed out
+18:03:09.812 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+18:03:10.033 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+18:03:20.977 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+18:03:20.977 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+18:03:21.015 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+18:03:21.016 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+18:03:21.078 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+18:03:21.512 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:03:21.994 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:03:21.994 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:03:24.146 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:03:24.146 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+18:03:24.414 INFO  utilities.GenericMethods -Value Entered in the place holder
+18:03:24.414 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:03:24.999 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:03:25.013 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+18:03:25.013 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:03:25.014 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+18:03:59.892 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:03:59.892 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+18:03:59.892 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:04:00.142 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:04:00.142 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+18:04:00.212 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+18:04:00.212 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+18:04:00.212 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+18:04:00.226 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+18:04:00.226 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+18:04:00.226 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:04:05.337 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:04:05.547 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+18:04:07.702 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:04:18.333 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:04:18.515 INFO  utilities.clientElement1 -Clicked on the Notification Preferences
+18:04:18.838 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+18:04:20.926 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+18:04:22.977 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+18:04:24.028 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+18:04:24.030 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+18:04:24.031 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+18:04:24.067 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+18:04:24.067 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+18:04:24.068 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:04:24.480 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:04:24.481 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:04:27.740 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:04:27.740 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:04:57.800 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:04:57.800 INFO  utilities.SignOutUtils -The test user has been signed out
+18:37:34.917 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+18:37:35.062 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+18:37:45.788 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+18:37:45.789 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+18:37:45.811 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+18:37:45.811 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+18:37:45.850 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+18:37:46.051 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:37:46.336 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:37:46.337 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:37:48.973 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:37:48.973 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+18:37:49.322 INFO  utilities.GenericMethods -Value Entered in the place holder
+18:37:49.322 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:37:49.617 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:37:49.622 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+18:37:49.623 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:37:49.624 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+18:38:25.616 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:38:25.616 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+18:38:25.616 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:38:25.808 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:38:25.809 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+18:38:25.875 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+18:38:25.875 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+18:38:25.875 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+18:38:25.890 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+18:38:25.891 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+18:38:25.891 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:38:31.063 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:38:31.422 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+18:38:33.541 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:38:44.110 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:38:44.290 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+18:38:44.290 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+18:38:44.373 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+18:38:44.373 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+18:38:44.373 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:38:44.999 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:38:44.999 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:38:48.327 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:38:48.328 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:39:18.387 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:39:18.388 INFO  utilities.SignOutUtils -The test user has been signed out
+18:46:56.853 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+18:46:56.863 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+18:47:06.878 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+18:47:06.879 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+18:47:06.905 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+18:47:06.905 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+18:47:06.956 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+18:47:07.221 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:47:07.550 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:47:07.551 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:47:09.638 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:47:09.638 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+18:47:09.888 INFO  utilities.GenericMethods -Value Entered in the place holder
+18:47:09.889 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:47:10.266 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:47:10.270 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+18:47:10.271 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:47:10.271 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+18:47:44.976 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:47:44.976 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+18:47:44.977 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:47:45.134 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:47:45.135 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+18:47:45.193 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+18:47:45.193 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+18:47:45.193 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+18:47:45.205 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+18:47:45.206 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+18:47:45.206 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:47:50.384 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:47:50.574 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+18:47:52.681 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:48:03.189 INFO  utilities.clientElement1 -Clicked on the DND Button
+18:48:03.342 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+18:48:03.343 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+18:48:03.402 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+18:48:03.402 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+18:48:03.402 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:48:03.789 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:48:03.790 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:48:06.994 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:48:06.994 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:48:37.059 ERROR utilities.GenericMethods -Element not clicked on the webpage
+18:48:37.060 INFO  utilities.SignOutUtils -The test user has been signed out
+18:59:38.711 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+18:59:38.718 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+18:59:48.792 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+18:59:48.793 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+18:59:48.833 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+18:59:48.834 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+18:59:48.892 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+18:59:49.322 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:59:49.791 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:59:49.791 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+18:59:51.888 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:59:51.892 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+18:59:52.134 INFO  utilities.GenericMethods -Value Entered in the place holder
+18:59:52.134 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+18:59:52.361 INFO  utilities.GenericMethods -Element clicked on the webpage
+18:59:52.368 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+18:59:52.368 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+18:59:52.368 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+19:00:27.330 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:00:27.331 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+19:00:27.331 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:00:27.507 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:00:27.507 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:00:27.568 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:00:27.568 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+19:00:27.568 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+19:00:27.579 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+19:00:27.580 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:00:27.580 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:00:32.759 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:00:32.782 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_plus_PlusWidget_0']
+19:00:32.782 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_plus_PlusWidget_0'])
+19:00:32.803 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_plus_PlusWidget_0']
+19:00:32.905 INFO  utilities.clientElement -Clicked on the Universal Search Button
+19:00:34.905 DEBUG utilities.GenericMethods -Type: xpath, Locator: //tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1]
+19:00:34.905 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1])
+19:00:34.929 INFO  utilities.GenericMethods -Element found with xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1]
+19:00:34.966 INFO  utilities.GenericMethods -The Create-Channel-icon element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1] is displayed
+19:00:34.998 INFO  utilities.GenericMethods -The Create-Channel-label element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']//div[@class='plus-item__label'] is displayed
+19:00:35.030 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //*[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[2] is Create a new channel
+19:00:35.072 INFO  utilities.GenericMethods -The text: Create a new channel displayed is correct
+19:00:35.108 INFO  utilities.GenericMethods -The Create-Channel-sublabel element at loction: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']//div[@class='plus-item__sublabel'] is displayed
+19:00:35.130 INFO  utilities.GenericMethods -THe text at locator: By.xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']//div[@class='plus-item__sublabel'] is For your projects or topics
+19:00:35.168 INFO  utilities.GenericMethods -The text: For your projects or topics displayed is correct
+19:00:35.168 DEBUG utilities.GenericMethods -Type: xpath, Locator: //tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1]
+19:00:35.168 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1])
+19:00:35.186 INFO  utilities.GenericMethods -Element found with xpath: //tr[@id='dijit__WidgetsInTemplateMixin_2']/td[2]/div[1]
+19:00:35.186 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:00:35.360 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:00:35.360 INFO  flockClient.searchPlus -The Create Channel Option is not clicked
+19:00:35.363 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:00:35.364 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:00:35.413 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:00:35.414 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:00:35.414 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:00:35.631 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:00:35.631 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:01:05.653 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:01:05.653 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:01:30.825 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:01:30.825 INFO  utilities.SignOutUtils -The test user has been signed out
+19:02:03.003 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+19:02:03.009 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+19:02:13.249 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+19:02:13.250 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+19:02:13.312 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+19:02:13.313 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+19:02:13.353 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+19:02:13.677 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:02:14.011 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:02:14.011 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:02:16.088 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:02:16.089 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+19:02:16.382 INFO  utilities.GenericMethods -Value Entered in the place holder
+19:02:16.382 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:02:16.663 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:02:16.668 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+19:02:16.668 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:02:16.669 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+19:02:52.147 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:02:52.147 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+19:02:52.147 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:02:52.345 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:02:52.345 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:02:52.423 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:02:52.423 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+19:02:52.423 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+19:02:52.440 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+19:02:52.441 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:02:52.441 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:02:57.560 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:02:57.717 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+19:02:59.823 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:03:10.326 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:03:10.453 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:03:10.453 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:03:10.501 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:03:10.501 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:03:10.501 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:03:10.865 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:03:10.865 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:03:14.194 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:03:14.195 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:03:44.261 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:03:44.262 INFO  utilities.SignOutUtils -The test user has been signed out
+19:09:55.124 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+19:09:55.132 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+19:10:05.149 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+19:10:05.149 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+19:10:05.167 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+19:10:05.168 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+19:10:05.199 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+19:10:05.370 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:10:05.582 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:10:05.583 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:10:07.729 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:10:07.730 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+19:10:07.894 INFO  utilities.GenericMethods -Value Entered in the place holder
+19:10:07.894 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:10:08.064 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:10:08.074 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+19:10:08.074 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:10:08.074 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+19:10:42.369 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:10:42.370 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+19:10:42.370 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:10:42.520 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:10:42.521 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:10:42.575 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:10:42.575 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+19:10:42.575 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+19:10:42.587 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+19:10:42.588 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:10:42.588 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:10:47.781 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:10:47.941 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+19:10:50.037 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:11:00.565 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:11:00.666 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:11:00.666 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:11:00.721 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:11:00.722 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:11:00.722 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:11:01.211 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:11:01.211 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:11:04.431 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:11:04.431 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:11:34.478 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:11:34.478 INFO  utilities.SignOutUtils -The test user has been signed out
+19:34:51.375 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+19:34:51.382 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+19:35:01.456 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+19:35:01.456 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+19:35:01.488 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+19:35:01.488 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+19:35:01.527 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+19:35:01.824 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:35:02.126 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:35:02.126 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:35:04.394 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:35:04.394 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+19:35:04.687 INFO  utilities.GenericMethods -Value Entered in the place holder
+19:35:04.687 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:35:04.958 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:35:04.967 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+19:35:04.967 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:35:04.968 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+19:35:39.834 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+19:35:39.834 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+19:35:39.835 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:35:40.023 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:35:40.023 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+19:35:40.095 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+19:35:40.095 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+19:35:40.096 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+19:35:40.110 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+19:35:40.111 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+19:35:40.111 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:35:45.251 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:35:45.455 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+19:35:47.587 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:35:58.461 INFO  utilities.clientElement1 -Clicked on the DND Button
+19:35:58.627 INFO  utilities.clientElement1 -Clicked on the Notification Preferences
+19:35:58.946 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+19:36:01.073 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+19:36:03.134 INFO  utilities.clientElement1 -Clicked on the Pop-up Notification toggle
+19:36:05.245 INFO  utilities.clientElement1 -Clicked on the Audio Alerts toggle
+19:36:05.309 INFO  utilities.clientElement1 -Clicked on the Notification Preferences
+19:36:05.311 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+19:36:05.312 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+19:36:05.368 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+19:36:05.368 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+19:36:05.369 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+19:36:05.580 INFO  utilities.GenericMethods -Element clicked on the webpage
+19:36:05.580 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:36:08.778 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:36:08.778 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+19:36:38.828 ERROR utilities.GenericMethods -Element not clicked on the webpage
+19:36:38.828 INFO  utilities.SignOutUtils -The test user has been signed out
+20:09:36.932 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id="globalButtonApps"]/div[1]
+20:09:36.971 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id="globalButtonApps"]/div[1])
+20:09:47.139 INFO  utilities.GenericMethods -Element not found with xpath: //div[@id="globalButtonApps"]/div[1]
+20:09:47.139 INFO  utilities.OnBoardingUtils -App not logged in. Try logging in default test account.
+20:09:47.167 INFO  utilities.GenericMethods -Switched to iframe by int : 0
+20:09:47.168 DEBUG utilities.GenericMethods -Searching element using By.xpath(//input[@placeholder='Enter your work email'])
+20:09:47.222 INFO  utilities.GenericMethods -Element not found with xpath: //input[@placeholder='Enter your work email']
+20:09:47.538 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+20:09:47.860 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:09:47.860 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+20:09:50.051 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:09:50.051 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be send key
+20:09:50.241 INFO  utilities.GenericMethods -Value Entered in the place holder
+20:09:50.241 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+20:09:50.570 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:09:50.575 INFO  utilities.GenericMethods -Implicitly waiting for 30secs
+20:09:50.576 DEBUG utilities.GenericMethods -Type: xpath, Locator: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+20:09:50.581 DEBUG utilities.GenericMethods -Searching element list using By.xpath(.//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent'])
+20:10:24.983 INFO  utilities.GenericMethods -Element not found with xpath: .//div[@style='position: absolute; opacity: 1; left: 750px; top: 106px; z-index: 950;']/div[@class='dijitDialogPaneContent']
+20:10:24.983 INFO  utilities.OnBoardingUtils -Language conflict modal not shown
+20:10:24.984 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+20:10:25.135 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:10:25.135 INFO  utilities.GenericMethods -Waiting for a max: 12 sec for the element to appear
+20:10:25.191 INFO  utilities.GenericMethods -The Element that you waited for is now displayed on the webpage
+20:10:25.192 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='dijit__Templated_20']
+20:10:25.192 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='dijit__Templated_20'])
+20:10:25.208 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='dijit__Templated_20']
+20:10:25.209 INFO  utilities.OnBoardingUtils -Clicking on Feature Tour Skip
+20:10:25.209 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+20:10:30.332 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:10:30.491 INFO  utilities.clientElement1 -Clicked on the Setting Drop Down Icon
+20:10:32.587 INFO  utilities.clientElement1 -Clicked on the DND Button
+20:10:43.184 INFO  utilities.clientElement1 -Clicked on the DND Button
+20:10:43.487 INFO  utilities.clientElement1 -Clicked on the Notification Preferences
+20:10:43.715 DEBUG utilities.GenericMethods -Type: xpath, Locator: //div[@id='shell_appLogo_AppLogo_0']
+20:10:43.715 DEBUG utilities.GenericMethods -Searching element list using By.xpath(//div[@id='shell_appLogo_AppLogo_0'])
+20:10:43.759 INFO  utilities.GenericMethods -Element found with xpath: //div[@id='shell_appLogo_AppLogo_0']
+20:10:43.759 INFO  utilities.SignOutUtils -App not logged out. Try logging out from the default test account.
+20:10:43.759 INFO  utilities.GenericMethods -Waiting for a max: 2 sec for the element to be clickable
+20:10:43.930 INFO  utilities.GenericMethods -Element clicked on the webpage
+20:10:43.931 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+20:10:47.140 ERROR utilities.GenericMethods -Element not clicked on the webpage
+20:10:47.141 INFO  utilities.GenericMethods -Waiting for a max: 1 sec for the element to be clickable
+20:11:17.171 ERROR utilities.GenericMethods -Element not clicked on the webpage
+20:11:17.171 INFO  utilities.SignOutUtils -The test user has been signed out

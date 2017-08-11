@@ -16,29 +16,39 @@ import base.BaseTestSuite;
 
 public class settingDropDown extends BaseTestSuite {
   
-	private static final Logger log = LogManager.getLogger(searchPlus.class.getName());
+private static final Logger log = LogManager.getLogger(searchPlus.class.getName());
 	
 	
 	
 	
 	@Test
-  public void DND() throws Exception {
+	public void DND() throws Exception {
 		ce1.clickSettingDropDwon();
-		Thread.sleep(2000);
-		if(ce1.dndPresent()){
-			ce1.clickdndButton();
-			ce1.clickDNDhour();
-			Thread.sleep(4000);
-			ce1.clickdndButton();
-		}
-		
-		ce1.dndSubLabelPresent();
-
-		
-  }
+			if(ce1.dndPresent()){
+				ce1.clickdndButton();
+				ce1.clickDNDhour();
+				}
+			
+			Thread.sleep(2000);
+			ce1.clickdndButton();	
+			ce1.dndSubLabelPresent();
+			test.log(LogStatus.PASS, "DND Element Present under setting drop down");
+	}
 	
-
-	
+	@Test
+	public void notificationPreference() throws Exception {
+		
+			if(ce1.notificationPreferencesPresent()){
+				if(ce1.popupNotificationsToggleDisplayed()){
+					ce1.clickNotificationPreferenceToggle();	
+				}else{
+					
+					ce1.clickNotificationPreferences();
+					ce1.clickNotificationPreferenceToggle();
+				}
+			ce1.clickNotificationPreferences();
+			test.log(LogStatus.PASS, "Notification Preference Element Present under setting drop down");
+			}			
+	}
 	
 }
-

@@ -50,6 +50,17 @@ public class clientElement1 {
 	@FindBy(xpath="//div[@id='shell_appMenu_AppMenuItem_3']//div[contains(text(),'Until I resume')]")  //Until I resume DND inside drop-down
 	public WebElement untilIResumeDND;
 	
+	@FindBy(xpath="//div[@id='app-menu-item-notification']//div[contains(text(),'Notification preferences')]")  //Notification Preferences inside drop-down
+	public WebElement notificationPreferences;
+	
+	@FindBy(xpath="//div[@id='shell_appMenu_AppMenuItem_4']//div[contains(text(),'Popup notifications')]")  //Pop-up notifications toggle inside drop-down
+	public WebElement popupNotificationsToggle;
+	
+	@FindBy(xpath="//div[@id='shell_appMenu_AppMenuItem_5']//div[contains(text(),'Audio alerts')]")  //Audio alert toggle inside drop-down
+	public WebElement audioAlertToggle;
+	
+	
+	
 	public void clickSettingDropDwon(){             // Click on Setting Drop-down Icon
 		settingDropDown.click();
 		log.info("Clicked on the Setting Drop Down Icon");
@@ -98,8 +109,61 @@ public class clientElement1 {
 		test.log(LogStatus.INFO, "Clicked on Until I resume DND");
 	}
 	
+	public void clickNotificationPreferences(){                   // Click on Notification Preferences inside drop-down
+		
+	    notificationPreferences.click();
+		log.info("Clicked on the Notification preferences");
+		test.log(LogStatus.INFO, "Clicked on the Notification preferences");
+	}
+
+	public void clickPopupNotificationsToggle(){                   // Click on Popup Notification Toggle inside drop-down
 	
+    popupNotificationsToggle.click();
+	log.info("Clicked on the Popup Notification Toggle");
+	test.log(LogStatus.INFO, "Clicked on the Popup Notification Toggle");
+}
+
+	public void clickAudioAlertsToggle(){                   // Click on Audio alert toggle inside drop-down
 	
+    audioAlertToggle.click();
+	log.info("Clicked on the Audio alert toggle");
+	test.log(LogStatus.INFO, "Clicked on the Audio alert toggle");
+}
+	
+	public boolean notificationPreferencesPresent(){                    // Check if Notification Preferences inside drop-down present
+		if(notificationPreferences != null){
+			test.log(LogStatus.INFO, "Notification Preferences setting present");
+			return true;
+		}else{
+			test.log(LogStatus.FAIL, "Notification Preferences setting absent");
+			return false;
+		}
+}
+	
+	public boolean popupNotificationsToggleDisplayed(){                    // Check if Popup Notification toggle inside setting is Displayed
+		if(popupNotificationsToggle.isDisplayed()){
+			test.log(LogStatus.INFO, "Popup Notification Toggle is displayed");
+			return true;
+		}else{
+			test.log(LogStatus.INFO, "Popup Notification Toggle is not displayed");
+			return false;
+		}
+	
+	}
+	
+	public void clickNotificationPreferenceToggle() throws Exception{    // Clicking on Notification Preference toggle buttons
+		clickPopupNotificationsToggle();
+		test.log(LogStatus.INFO, "Clicked on Popup notification toggle");
+		Thread.sleep(1000);
+		clickAudioAlertsToggle();
+		test.log(LogStatus.INFO, "Clicked on Audi alert toggle");
+		Thread.sleep(1000);
+		clickPopupNotificationsToggle();
+		test.log(LogStatus.INFO, "Clicked on Popup notification toggle");
+		Thread.sleep(1000);
+		clickAudioAlertsToggle();
+		test.log(LogStatus.INFO, "Clicked on Audio alert toggle");
+	}
 	
 			
 }
